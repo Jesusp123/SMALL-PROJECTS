@@ -1,7 +1,7 @@
 # SMALL-PROJECTS
 
 # STATEMENT
-This Repository will act as a place in which I will store my smaller projects. The main software I utilize in these projects is Google Sheets.
+This Repository will act as a place in which I will store my smaller projects. The main software I utilize in these projects is EXCEL.
 
 ## Project 1: Importing Tables from a website
 
