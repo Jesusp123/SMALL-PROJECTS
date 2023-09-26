@@ -1,7 +1,7 @@
 # SMALL-PROJECTS
 
 # STATEMENT
-This Repository vvill act as a place in vvhich I vvill store my smaller projects.
+This Repository will act as a place in which I will store my smaller projects.
 
 ## Project 1: Importing Tables from a website
 
@@ -14,6 +14,7 @@ URL:https://www.worldometers.info/geography/alphabetical-list-of-countries/
 
 ## Steps
 1. Copy VVeb address of the page
+![URL](https://github.com/Jesusp123/SMALL-PROJECTS-EXCEL-/assets/87102287/1d0579b0-01c6-44fc-b112-0d8cc4b4cd6e)
+2.
 
-   ![URL](https://github.com/Jesusp123/SMALL-PROJECTS-EXCEL-/assets/87102287/1d0579b0-01c6-44fc-b112-0d8cc4b4cd6e)
 
