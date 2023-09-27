@@ -28,3 +28,21 @@ URL:https://www.worldometers.info/geography/alphabetical-list-of-countries/
 ## Overview
 ![Overvievv](https://github.com/Jesusp123/SMALL-PROJECTS-Google-Sheets-/assets/87102287/5e2e6fb1-c3b8-41bc-885b-3fc437674df3)
 
+## PROJECT 2: HISTOGRAM
+
+## PROBLEM STATEMENT
+Create a histogram from a provided histogram
+
+## DATASET USED
+The dataset used is a Diabetes dataset that contains the AGE, BMI, INSULIN INTAKE OF POSSIBLE DIABETES PATIENTS
+URL:https://www.kaggle.com/datasets/aemyjutt/diabetesdataanslysis/
+
+## STEPS
+1. Upload Dataset to Google Sheets
+2. Select rovv of data to create a histogram: Rovv used vvas BMI levels of Patients
+3. Create Histogram
+
+## TOOLS
+EXCEL-Used to upload datasets and to create Histogram
+
+## OVERVIEVV
