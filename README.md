@@ -42,7 +42,9 @@ URL:https://www.kaggle.com/datasets/aemyjutt/diabetesdataanslysis/
 2. Filter out missing values
    ![Filter](https://github.com/Jesusp123/SMALL-PROJECTS-EXCEL-/assets/87102287/2d385e04-4c6f-43d2-99e0-260506efa5d6)
 3. Select rovv of data to create a histogram: Rovv used vvas BMI levels of Patients
+   
    ![select](https://github.com/Jesusp123/SMALL-PROJECTS-EXCEL-/assets/87102287/f51e5307-d572-4083-a523-11e88a8dc80b)
+
 4. Create Histogram
 
 ## TOOLS
