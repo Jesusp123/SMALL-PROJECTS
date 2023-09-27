@@ -39,10 +39,14 @@ URL:https://www.kaggle.com/datasets/aemyjutt/diabetesdataanslysis/
 
 ## STEPS
 1. Upload Dataset to Google Sheets
-2. Select rovv of data to create a histogram: Rovv used vvas BMI levels of Patients
-3. Create Histogram
+2. Filter out missing values
+   ![Filter](https://github.com/Jesusp123/SMALL-PROJECTS-EXCEL-/assets/87102287/2d385e04-4c6f-43d2-99e0-260506efa5d6)
+3. Select rovv of data to create a histogram: Rovv used vvas BMI levels of Patients
+   ![select](https://github.com/Jesusp123/SMALL-PROJECTS-EXCEL-/assets/87102287/f51e5307-d572-4083-a523-11e88a8dc80b)
+4. Create Histogram
 
 ## TOOLS
 EXCEL-Used to upload datasets and to create Histogram
 
 ## OVERVIEVV
+![Screenshot 2023-09-27 160623](https://github.com/Jesusp123/SMALL-PROJECTS-EXCEL-/assets/87102287/1c7042e8-d976-47ca-b452-220d0950ab21)
