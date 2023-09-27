@@ -31,7 +31,7 @@ URL:https://www.worldometers.info/geography/alphabetical-list-of-countries/
 ## PROJECT 2: HISTOGRAM
 
 ## PROBLEM STATEMENT
-Create a histogram from a provided histogram
+Create a histogram from a provided dataset
 
 ## DATASET USED
 The dataset used is a Diabetes dataset that contains the AGE, BMI, INSULIN INTAKE OF POSSIBLE DIABETES PATIENTS
