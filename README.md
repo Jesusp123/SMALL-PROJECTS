@@ -52,3 +52,31 @@ EXCEL-Used to upload datasets and to create Histogram
 
 ## OVERVIEVV
 ![Screenshot 2023-09-27 160623](https://github.com/Jesusp123/SMALL-PROJECTS-EXCEL-/assets/87102287/1c7042e8-d976-47ca-b452-220d0950ab21)
+
+## Problem 3: Scatter Plot
+
+## PROBLEM STATEMENT
+Take data and construct a Scatter plot from it 
+
+## Dataset used 
+The dataset used is a Diabetes dataset that contains the AGE, BMI, INSULIN INTAKE OF POSSIBLE DIABETES PATIENTS
+URL:https://www.kaggle.com/datasets/aemyjutt/diabetesdataanslysis/
+
+## STEPS
+1. Filter data based on Result of Test 0 or 1
+
+   ![Filter2](https://github.com/Jesusp123/SMALL-PROJECTS-EXCEL-/assets/87102287/6f65901b-df4f-4475-89f7-63f10fe8f074)
+   
+2. Separate and Transfer BMI data to the Nevv sheet
+
+   ![Nevv sheet](https://github.com/Jesusp123/SMALL-PROJECTS-EXCEL-/assets/87102287/4a610a04-7447-4f51-ac36-584aaa6e9630)
+   
+3. Use new data to create a Scatterplot
+
+## TOOLS
+EXCEL-Used to upload datasets and to create Scatterplot
+
+## Overvievv
+
+![BMI IN TESTED PATIENTS](https://github.com/Jesusp123/SMALL-PROJECTS-EXCEL-/assets/87102287/2e38a3e9-e129-4041-a2c0-66b568038dd2)
+
