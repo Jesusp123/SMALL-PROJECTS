@@ -80,3 +80,14 @@ EXCEL-Used to upload datasets and to create Scatterplot
 
 ![BMI IN TESTED PATIENTS](https://github.com/Jesusp123/SMALL-PROJECTS-EXCEL-/assets/87102287/2e38a3e9-e129-4041-a2c0-66b568038dd2)
 
+## PIVOT TABLES
+
+## PROBLEM STATEMENT
+Use the provided data to construct A pivot table and charts
+
+## Dataset used 
+The dataset used is a Diabetes dataset that contains the AGE, BMI, INSULIN INTAKE OF POSSIBLE DIABETES PATIENTS
+URL:https://www.kaggle.com/datasets/aemyjutt/diabetesdataanslysis/
+
+## TOOLS 
+Google Sheets-Used to upload datasets and to create Pivot Table
