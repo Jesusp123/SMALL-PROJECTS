@@ -80,7 +80,7 @@ EXCEL-Used to upload datasets and to create Scatterplot
 
 ![BMI IN TESTED PATIENTS](https://github.com/Jesusp123/SMALL-PROJECTS-EXCEL-/assets/87102287/2e38a3e9-e129-4041-a2c0-66b568038dd2)
 
-## PIVOT TABLES
+## Project: PIVOT TABLES
 
 ## PROBLEM STATEMENT
 Use the provided data to construct A pivot table and charts
@@ -89,5 +89,28 @@ Use the provided data to construct A pivot table and charts
 The dataset used is a Diabetes dataset that contains the AGE, BMI, INSULIN INTAKE OF POSSIBLE DIABETES PATIENTS
 URL:https://www.kaggle.com/datasets/aemyjutt/diabetesdataanslysis/
 
+## STEPS
+1. UPLOAD DATA
+2. SELECT DATA
+3. GET RID OF MISSING VALUES IN THE BMI COLUMN
+4. CREATE AGE BASED PIVOT TABLE
+5. CALCULATE THE AVERAGE BMI BASED ON AGE
+6. CREATE LINE GRAPH
+7. CREATE A PREGNANCY-BASED PIVOT TABLE
+8. CALCULATE THE AVERAGE BMI BASED ON # OF PREGNANCIES
+
+ ![Screenshot 2023-10-01 185655](https://github.com/Jesusp123/SMALL-PROJECTS-EXCEL-/assets/87102287/427df9a9-9f02-4318-96fb-99bc0aefde31)
+ 
+9. CREATE LINE GRAPH
+
 ## TOOLS 
 Google Sheets-Used to upload datasets and to create Pivot Table
+
+## OVERVIEVV
+### PIVOT TABLE: AVERAGE BMI PER AGE
+
+![Average BMI Per Age](https://github.com/Jesusp123/SMALL-PROJECTS-EXCEL-/assets/87102287/81fdfd13-a0c5-4c5b-827d-b722db50842e)
+
+### PIVOT TABLE: AVERAGE BMI PER PREGNANCIES
+
+![AVGERAGE BMI PER  OF PREGNANCIES](https://github.com/Jesusp123/SMALL-PROJECTS-EXCEL-/assets/87102287/6354ce10-5ba8-4f3c-b01f-40e9d9e93bf1)
