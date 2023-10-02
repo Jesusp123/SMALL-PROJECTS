@@ -33,7 +33,7 @@ URL:https://www.worldometers.info/geography/alphabetical-list-of-countries/
 ## PROBLEM STATEMENT
 Create a histogram from a provided dataset
 
-## DATASET USED
+## DATASET USED: DIABETES(1)
 The dataset used is a Diabetes dataset that contains the AGE, BMI, INSULIN INTAKE OF POSSIBLE DIABETES PATIENTS
 URL:https://www.kaggle.com/datasets/aemyjutt/diabetesdataanslysis/
 
@@ -58,7 +58,7 @@ EXCEL-Used to upload datasets and to create Histogram
 ## PROBLEM STATEMENT
 Take data and construct a Scatter plot from it 
 
-## Dataset used 
+## Dataset used: DIABETES(1)
 The dataset used is a Diabetes dataset that contains the AGE, BMI, INSULIN INTAKE OF POSSIBLE DIABETES PATIENTS
 URL:https://www.kaggle.com/datasets/aemyjutt/diabetesdataanslysis/
 
@@ -85,7 +85,7 @@ EXCEL-Used to upload datasets and to create Scatterplot
 ## PROBLEM STATEMENT
 Use the provided data to construct A pivot table and charts
 
-## Dataset used 
+## Dataset used: DIABETES(2)
 The dataset used is a Diabetes dataset that contains the AGE, BMI, INSULIN INTAKE OF POSSIBLE DIABETES PATIENTS
 URL:https://www.kaggle.com/datasets/aemyjutt/diabetesdataanslysis/
 
