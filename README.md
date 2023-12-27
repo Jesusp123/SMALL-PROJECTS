@@ -13,7 +13,7 @@ The Dataset used is a List of Countries around the world. The data set contains 
 URL:https://www.worldometers.info/geography/alphabetical-list-of-countries/
 
 ## Steps
-1. Copy VVeb address of the page
+1. Copy the VVeb address of the page
    
 ![URL](https://github.com/Jesusp123/SMALL-PROJECTS-EXCEL-/assets/87102287/1d0579b0-01c6-44fc-b112-0d8cc4b4cd6e)
 
@@ -23,7 +23,7 @@ URL:https://www.worldometers.info/geography/alphabetical-list-of-countries/
 
 ## Tools
 1. Google Sheets-Used to implement a function that would be capable of importing data from an external website
-2.Functions-ImportHTML()-utilized to select website and table, to extract data from, and import it into cells of the sheet
+2.Functions-ImportHTML()-utilized to select websites and tables, extract data from, and import it into cells of the sheet
 
 ## Overview
 ![Overvievv](https://github.com/Jesusp123/SMALL-PROJECTS-Google-Sheets-/assets/87102287/5e2e6fb1-c3b8-41bc-885b-3fc437674df3)
@@ -41,7 +41,7 @@ URL:https://www.kaggle.com/datasets/aemyjutt/diabetesdataanslysis/
 1. Upload Dataset to Google Sheets
 2. Filter out missing values
    ![Filter](https://github.com/Jesusp123/SMALL-PROJECTS-EXCEL-/assets/87102287/2d385e04-4c6f-43d2-99e0-260506efa5d6)
-3. Select rovv of data to create a histogram: Rovv used vvas BMI levels of Patients
+3. Select the row of data to create a histogram: Rovv used was BMI levels of Patients
    
    ![select](https://github.com/Jesusp123/SMALL-PROJECTS-EXCEL-/assets/87102287/f51e5307-d572-4083-a523-11e88a8dc80b)
 
